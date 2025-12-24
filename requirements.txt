@@ -5,7 +5,6 @@ aiofiles
 pillow
 devgagantools
 tgcrypto
-pyromod
 opencv-python-headless
 requests
 motor
